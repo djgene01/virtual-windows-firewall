@@ -19,7 +19,7 @@ The installer and the program are digitally signed. Windows shows the verified p
 
 ## Install
 
-1. Run the `.msi` as an administrator, on 64-bit Windows 10 or 11, or Windows Server.
+1. Run the `.msi` as an administrator, on 64-bit Windows 10 (version 1607 or later), Windows 11, or Windows Server 2016 or later.
 2. When it finishes, open `http://127.0.0.1:5080` (a desktop shortcut is created) and create the first administrator account.
 
 Keep another way to reach any remote computer (for example console access) while you set up allowlists and bans.
